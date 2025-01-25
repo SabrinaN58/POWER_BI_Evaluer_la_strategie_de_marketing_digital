@@ -3,7 +3,7 @@
 Il s'agit d'un projet libre pour lequel j'ai sélectionné un dataset sur Kaggle
 
 ## **Contexte** : 
-TheLook est une entreprise (fictive) américaine créée en 2019, spécialisée dans la vente de vêtements pour femme, homme et enfant. Sa stratégie de communication repose principalement sur une stratégie de marketing digitale, en diffusant des campagnes marketing via différentes sources de trafic afin de promouvoir ses services et ses produits. Dans un marché en constante évolution  et fortement concurrencé l'entreprise souhaite à présent évaluer l'éfficacité de la stratégie de communication afin de surveiller les progrès et éventuellemnt ajuster la stratégie de communication en conséquence afin de maximiser le retour sur investissement
+TheLook est une entreprise (fictive) américaine créée en 2019, spécialisée dans la vente de vêtements pour femme, homme et enfant. Sa stratégie de communication repose principalement sur une stratégie de marketing digitale, en diffusant des campagnes marketing via différentes sources de trafic afin de promouvoir ses services et ses produits. Dans un marché en constante évolution et fortement concurrencé, l'entreprise souhaite à présent évaluer l'éfficacité de la stratégie de communication afin de surveiller les progrès et éventuellemnt ajuster la stratégie de communication en conséquence afin de maximiser le retour sur investissement
 
 ## **Objectifs** :
 Les objectifs de ce projets sont :
