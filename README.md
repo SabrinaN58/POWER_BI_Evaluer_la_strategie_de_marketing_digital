@@ -1,4 +1,4 @@
-# Évaluer l'éfficacité de la strategie de marketing digitale
+# Évaluer l'éfficacité de la strategie de marketing digital
 
 Il s'agit d'un projet libre pour lequel j'ai sélectionné un dataset sur Kaggle
 
