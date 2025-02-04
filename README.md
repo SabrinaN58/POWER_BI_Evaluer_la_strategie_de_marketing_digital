@@ -28,5 +28,5 @@ Ce que j'ai appris :
 - Réaliser des calculs DAX simples et complexes pour répondre aux besoins
 - Mise en forme du rapport pour une visualisation et navigation agréable
 - Utiliser le storytelling pour communiquer les résultats analysés
-- Recommadations pour optimiser la stratégie de communication 
+- Recommadations pour optimiser la stratégie de communication digitale
   
